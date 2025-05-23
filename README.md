@@ -1,1 +1,1 @@
-Trainero is a LMS SaaS app from scratch featuring user authentication, subscriptions, and payments using Next.js, Supabase & Stripe! You'll build and deploy a real-time teaching platform with Vapi, integrate an AI vocal agent, and deliver interactive learning sessions.
+Trainero is a LMS SaaS app from scratch featuring user authentication, subscriptions, and payments using Next.js, Supabase & Stripe! It uses a real-time teaching platform  Vapi, integrates an AI vocal agent, and delivers interactive learning sessions.
